@@ -17,6 +17,9 @@ ls -l
 
 # 3. In each directory, how would you create 5 .txt files and write "I love data" into each within the directories?
 
+touch
+
+
 #!/bin/bash
 
 # Specify the directory where you want to create files in its subdirectories
